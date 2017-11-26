@@ -6,7 +6,7 @@ require "red_xgboost/version"
 Gem::Specification.new do |spec|
   spec.name          = "red_xgboost"
   spec.version       = RedXgboost::VERSION
-  spec.authors       = ["tomisuker"]
+  spec.authors       = ["Akifumi Tomiyama"]
   spec.email         = ["tomisuker16@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
